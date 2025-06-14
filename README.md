@@ -22,8 +22,7 @@
 - Cloud Services (AWS / Azure)
 
 ### 🤝 Let’s Connect
-- 🔗 LinkedIn: [linkedin.com/in/omar-garcía-guzmán-183839207]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/omar-garc%C3%ADa-guzm%C3%A1n-183839207/))  
-
+- 🔗 LinkedIn: [linkedin.com/in/omar-garcía-guzmán-183839207/](https://www.linkedin.com/in/omar-garc%C3%ADa-guzm%C3%A1n-183839207/)
 ---
 
 > “Innovation distinguishes between a leader and a follower.”  
