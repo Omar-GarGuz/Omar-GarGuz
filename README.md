@@ -1,4 +1,4 @@
-[letscode](https://github.com/user-attachments/assets/96583a37-e081-4c39-8c55-2cbd2dd7e082)
+https://github.com/user-attachments/assets/96583a37-e081-4c39-8c55-2cbd2dd7e082
 
 # Hi there 👋, I’m Omar García Guzmán!
 
