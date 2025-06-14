@@ -1,4 +1,5 @@
-https://github.com/user-attachments/assets/96583a37-e081-4c39-8c55-2cbd2dd7e082
+![letscode](https://github.com/user-attachments/assets/2c2f2055-b269-4c70-b576-fd6131cb6c3e)
+
 
 # Hi there 👋, I’m Omar García Guzmán!
 
