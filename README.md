@@ -8,7 +8,8 @@
 
 <pre>
 🎓 Software Engineering Student
-🌐 Full-stack Developer (Frontend & Backend)
+🔐 Cybersecurity & Cloud Enthusiast
+📊 Data Analysis & Automation Interests
 🤝 Team player • Clean code enthusiast
 🚀 Passionate about innovation & new technologies
 </pre>
@@ -19,12 +20,12 @@
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,postgres,mongodb,git,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,postgres,mongodb,git,docker,vscode,bash,cs,"/>
 
 <br><br>
 
 ### 🌱 Currently Learning
-Advanced React Patterns • GraphQL • Cloud (AWS / Azure)
+Cloud Computing (AWS/Azure) • Java & TypeScript • Network Security • APIs
 
 <br>
 
